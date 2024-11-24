@@ -1,5 +1,4 @@
-Hi, myself Kanan
-======================
+
 
 ### Socials
 
