@@ -1,4 +1,4 @@
-Hi 👋 My name is Kanan
+Hi, My name is Kanan
 ======================
 
 Web developer and Designer
