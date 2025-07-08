@@ -1,11 +1,4 @@
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkanann&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
-</div>
 
-### GitHub Trophies
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kkanann&theme=radical&no-frame=true&margin-w=4" alt="kanan's GitHub Trophies" />
-</div>
 
 ### Socials
 
